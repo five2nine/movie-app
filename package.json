@@ -1,7 +1,7 @@
 {
   "name": "movie_app",
   "version": "0.1.0",
-  "homepage": "https://five2nine.github.io/movie_app",
+  "homepage": "https://five2nine.github.io/movie-app",
   "private": true,
   "dependencies": {
     "react": "^16.5.2",
